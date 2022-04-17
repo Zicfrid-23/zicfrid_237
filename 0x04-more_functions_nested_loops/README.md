@@ -1,0 +1,6 @@
+# 0x04 C-more nested loops and functions
+
+* This folder contains the project and tasks for 0x04, more functions and nested loops# 0x04 C-more nested loops and functions
+
+
+* This folder contains the project and tasks for 0x04, more functions and nested loops
